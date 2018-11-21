@@ -1,6 +1,6 @@
-## Crawlers
+# Reddit Telegram Bot Web Crawler
 
-### Parte 1
+## Crawlers
 
 O script presente no arquivo 'crawlers/Python/src/reddit_crawler.py' soluciona a parte 1, devendo ser executado por linha de comando:
 ```Shell
@@ -48,7 +48,7 @@ REASON: OK
 }
 ```
 
-### Parte 2
+### Telegram bot
 
 A parte 2 foi solucionada utilizando o script da parte 1 como modulo python, acrescido de um script para o bot, telegram.py
 
